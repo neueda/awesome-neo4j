@@ -91,7 +91,7 @@ Thanks to all [contributors](https://github.com/FylmTM/awesome-neo4j/graphs/cont
 ### Other
 
 - [neoclipse](https://github.com/neo4j-contrib/neoclipse) - Neoclipse is a tool to view, edit and explore Neo4j databases.
-- [Graphgen)(https://graphgen.graphaware.com) - Graph Generation engine based on the Cypher DSL
+- [Graphgen)(http://graphgen.graphaware.com) - Graph Generation engine based on the Cypher DSL
 
 ## Resources
 
