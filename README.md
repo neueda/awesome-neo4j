@@ -16,6 +16,7 @@ Thanks to all [contributors](https://github.com/FylmTM/awesome-neo4j/graphs/cont
 - [Neo4j Cypher Refcard](http://neo4j.com/docs/stable/cypher-refcard/)
 - [Neo4j developer resources](http://neo4j.com/developer)
 - [Neo4j GraphGist](http://gist.neo4j.org/) - Neo4j GraphGists are an easy way to create and share documents containing not just prose, structure and pictures but most importantly example graph models and use-cases expressed in Neo4j’s query language Cypher.
+- [Neo4j Alpha Release Channel](http://alpha.neohq.net/) - This microsite contains links and resources for future product releases.
 
 ## Tools
 
@@ -118,7 +119,7 @@ Thanks to all [contributors](https://github.com/FylmTM/awesome-neo4j/graphs/cont
 ### Bolt
 
 - [bolt-howto](https://github.com/nigelsmall/bolt-howto) - How to Build a Neo4j Bolt Protocol Driver
-- [Neo4j Data Protocol, Version 1](http://remoting.neotechnology.com.s3-website-eu-west-1.amazonaws.com/) - This section describes the Neo4j Data Protocol, version 1. It is written primarily for those implementing client drivers as well as those who want to understand the low-level communication details of such interactions.
+- [Neo4j Data Protocol, Version 1](http://alpha.neohq.net/docs/server-manual/bolt.html) - This section describes the Neo4j Data Protocol, version 1. It is written primarily for those implementing client drivers as well as those who want to understand the low-level communication details of such interactions.
 
 ### Books
 
