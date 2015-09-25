@@ -118,6 +118,7 @@ Thanks to all [contributors](https://github.com/FylmTM/awesome-neo4j/graphs/cont
 ### Bolt
 
 - [bolt-howto](https://github.com/nigelsmall/bolt-howto) - How to Build a Neo4j Bolt Protocol Driver
+- [Neo4j Data Protocol, Version 1](http://remoting.neotechnology.com.s3-website-eu-west-1.amazonaws.com/) - This section describes the Neo4j Data Protocol, version 1. It is written primarily for those implementing client drivers as well as those who want to understand the low-level communication details of such interactions.
 
 ### Books
 
