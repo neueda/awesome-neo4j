@@ -60,6 +60,11 @@ Thanks to all [contributors](https://github.com/FylmTM/awesome-neo4j/graphs/cont
 
 - [neoprofiler](https://github.com/moxious/neoprofiler) - Neo4J database profiling utility
 
+### Packages
+
+- [Neo4j Debian Packages](http://debian.neo4j.org/)
+- [Neo4j Yum Repo](http://yum.neo4j.org/)
+
 ### Deployment
 
 - [docker-neo4j-cluster](https://github.com/ekino/docker-neo4j-cluster) - Up & Running Neo4j cluster in no time
