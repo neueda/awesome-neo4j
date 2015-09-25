@@ -69,6 +69,11 @@ Thanks to all [contributors](https://github.com/FylmTM/awesome-neo4j/graphs/cont
 - [structr](https://github.com/structr/structr) - Graph Application Platform based on Neo4j
 - [GraphAware Neo4j Framework](https://github.com/graphaware/neo4j-framework)- GraphAware Framework speeds up development with Neo4j by providing a platform for building useful generic as well as domain-specific functionality, analytical capabilities, (iterative) graph algorithms, etc.
 
+### Cypher
+
+- [cypher-dsl](https://github.com/neo4j-contrib/cypher-dsl) - A Java DSL for the Cypher Query Language and an optional Query DSL mode
+- [cypher-vim-syntax](https://github.com/neo4j-contrib/cypher-vim-syntax) - Very basic Vim syntax for Cypher
+
 ### Extensions
 
 - [spatial](https://github.com/neo4j-contrib/spatial) - Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data.
@@ -81,6 +86,10 @@ Thanks to all [contributors](https://github.com/FylmTM/awesome-neo4j/graphs/cont
 - [neo4j-algorithms](https://github.com/graphaware/neo4j-algorithms) - Custom graph algorithms for Neo4j with own Java and REST APIs
 - [neo4j-changefeed](https://github.com/graphaware/neo4j-changefeed) - A GraphAware Framework Runtime Module allowing users to find out what were the latest changes performed on the graph
 - [neo4j-tx-participation](https://github.com/jexp/neo4j-tx-participation) - This is a Neo4j Server Extension to make Neo4j REST-API participate in transactions started by the transactional Cypher endpoint.
+
+### Other
+
+- [neoclipse](https://github.com/neo4j-contrib/neoclipse) - Neoclipse is a tool to view, edit and explore Neo4j databases.
 
 ## Resources
 
@@ -95,6 +104,13 @@ Thanks to all [contributors](https://github.com/FylmTM/awesome-neo4j/graphs/cont
 ### Bolt
 
 - [bolt-howto](https://github.com/nigelsmall/bolt-howto) - How to Build a Neo4j Bolt Protocol Driver
+
+### Books
+
+- [Graph Databases](http://graphdatabases.com/) - The Definitive Book on Graph Databases and Introduction to Neo4j
+- [A Programmatic Introduction to Neo4j](http://www.amazon.com/Programmatic-Introduction-Neo4j-Jim-Webber/dp/0321902904) - [NOT YET BEEN RELEASED]
+- [Neo4j High Performance](https://www.packtpub.com/big-data-and-business-intelligence/neo4j-high-performance/)
+- [Learning Neo4j](https://www.packtpub.com/big-data-and-business-intelligence/learning-neo4j-graph-databases) - Run blazingly fast queries on complex graph datasets with the power of the Neo4j graph database
 
 ### Miscellaneous
 
