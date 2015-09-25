@@ -63,6 +63,7 @@ Thanks to all [contributors](https://github.com/FylmTM/awesome-neo4j/graphs/cont
 - [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) - [ALPHA] Java driver for Neo4j binary protocol
 - [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) - [ALPHA] Python driver for Neo4j binary protocol
 - [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) - [ALPHA] JavaScript driver for Neo4j binary protocol
+- [neo4j-php-driver](360/6112/39947) - [ALPHA] PHP driver for Neo4j binary protocol
 
 ### Development
 
@@ -90,6 +91,7 @@ Thanks to all [contributors](https://github.com/FylmTM/awesome-neo4j/graphs/cont
 ### Other
 
 - [neoclipse](https://github.com/neo4j-contrib/neoclipse) - Neoclipse is a tool to view, edit and explore Neo4j databases.
+- [Graphgen)(https://graphgen.graphaware.com) - Graph Generation engine based on the Cypher DSL
 
 ## Resources
 
