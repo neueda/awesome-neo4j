@@ -44,11 +44,11 @@ Table of Contents
 
 # Basics
 
-- [Neo4j docs](http://neo4j.com/docs/stable/)
-- [Neo4j Cypher Refcard](http://neo4j.com/docs/stable/cypher-refcard/)
-- [Neo4j developer resources](http://neo4j.com/developer)
-- [Neo4j GraphGist](http://gist.neo4j.org/) - Neo4j GraphGists are an easy way to create and share documents containing not just prose, structure and pictures but most importantly example graph models and use-cases expressed in Neo4j’s query language Cypher.
-- [Neo4j Alpha Release Channel](http://alpha.neohq.net/) - This microsite contains links and resources for future product releases.
+- [Docs](http://neo4j.com/docs/stable/)
+- [Cypher Refcard](http://neo4j.com/docs/stable/cypher-refcard/)
+- [Developer resources](http://neo4j.com/developer)
+- [GraphGist](http://gist.neo4j.org/) - GraphGists are an easy way to create and share documents containing not just prose, structure and pictures but most importantly example graph models and use-cases expressed in Neo4j’s query language Cypher.
+- [Alpha Release Channel](http://alpha.neohq.net/) - This microsite contains links and resources for future product releases.
 
 # Tools
 
@@ -97,8 +97,8 @@ Table of Contents
 
 ## Packages
 
-- [Neo4j Debian Packages](http://debian.neo4j.org/)
-- [Neo4j Yum Repo](http://yum.neo4j.org/)
+- [Debian Packages](http://debian.neo4j.org/)
+- [Yum Repo](http://yum.neo4j.org/)
 
 ## Deployment
 
@@ -145,7 +145,7 @@ Table of Contents
 
 # Resources
 
-[List of good Neo4j articles](ARTICLES.md)
+[List of good articles](ARTICLES.md)
 
 ## Learning
 
