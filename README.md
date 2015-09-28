@@ -80,6 +80,7 @@ Thanks to all [contributors](https://github.com/FylmTM/awesome-neo4j/graphs/cont
 
 ### Development
 
+- [blueprints](https://github.com/tinkerpop/blueprints) - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases. 
 - [structr](https://github.com/structr/structr) - Graph Application Platform based on Neo4j
 - [GraphAware Neo4j Framework](https://github.com/graphaware/neo4j-framework)- GraphAware Framework speeds up development with Neo4j by providing a platform for building useful generic as well as domain-specific functionality, analytical capabilities, (iterative) graph algorithms, etc.
 
