@@ -2,12 +2,10 @@ Awesome Neo4j
 ==============
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome [Neo4j](http://neo4j.com/) resources.
-
+A curated list of awesome [Neo4j](http://neo4j.com/) resources.  
 Inspired by the `awesome-*` trend on GitHub.
 
-The goal is to build a categorized community-driven collection of very well-known resources.
-
+The goal is to build a categorized community-driven collection of very well-known resources.  
 Sharing, suggestions and contributions are always welcome!
 
 Thanks to all [contributors](https://github.com/FylmTM/awesome-neo4j/graphs/contributors).
