@@ -8,3 +8,7 @@
 
 - [Neo4j Write Throughput on Linux ext4 Filesystems](https://structr.org/blog/neo4j-performance-on-ext4)
 - [5 Secrets to More Effective Neo4j 2.2 Query Tuning](http://neo4j.com/blog/neo4j-2-2-query-tuning/)
+
+## Graph modelling
+
+- [Time-Based Versioned Graphs](http://iansrobinson.com/2014/05/13/time-based-versioned-graphs/)
