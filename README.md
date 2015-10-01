@@ -111,11 +111,12 @@ Table of Contents
 
 ## Shell
 
-- [cycli](https://github.com/nicolewhite/cycli) - A Command Line Interface for Cypher.
+- [cycli](https://github.com/nicolewhite/cycli) - A Command Line Interface for Cypher
 - [neo4j-shell-tools](https://github.com/jexp/neo4j-shell-tools) - A bunch of import/export tools for the neo4j-shell
 
 ## Development
 
+- [Liquigraph](https://github.com/fbiville/liquigraph) - Database migrations management tool, based on how Liquibase works
 - [blueprints](https://github.com/tinkerpop/blueprints) - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases.
 - [structr](https://github.com/structr/structr) - Graph Application Platform based on Neo4j
 - [GraphAware Neo4j Framework](https://github.com/graphaware/neo4j-framework)- GraphAware Framework speeds up development with Neo4j by providing a platform for building useful generic as well as domain-specific functionality, analytical capabilities, (iterative) graph algorithms, etc.
