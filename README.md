@@ -47,7 +47,7 @@ Table of Contents
 - [Developer resources](http://neo4j.com/developer)
 - [GraphGist](http://gist.neo4j.org/) - GraphGists are an easy way to create and share documents containing not just prose, structure and pictures but most importantly example graph models and use-cases expressed in Neo4j’s query language Cypher.
 - [Alpha Release Channel](http://alpha.neohq.net/) - This microsite contains links and resources for future product releases.
-- [Maven repository (snapshots)](https://m2.neo4j.org/content/repositories/snapshots/) - Maven repository with "nightly" builds (snapshots)
+- [Maven repositories](https://m2.neo4j.org/) - Neo4j Maven repositories (releases, snapshots).
 
 # Tools
 
