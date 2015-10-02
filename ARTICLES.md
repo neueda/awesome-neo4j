@@ -3,6 +3,8 @@
 ## HA
 
 - [neo4j and haproxy: some best practices and tricks](http://blog.armbruster-it.de/2015/08/neo4j-and-haproxy-some-best-practices-and-tricks/)
+- [Raft - Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/) - interactive demo
+
 
 ## Performance
 
