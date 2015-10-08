@@ -94,6 +94,7 @@ Table of Contents
 - [neoism](https://github.com/jmcvetta/neoism) - Client for Golang.
 - [neocons](https://github.com/michaelklishin/neocons) - A feature rich idiomatic Clojure client for the REST API.
 - [RNeo4j](https://github.com/nicolewhite/RNeo4j) - Driver for R.
+- [AnormCypher](https://github.com/AnormCypher/AnormCypher) - Scala library based on Anorm in the Play Framework.
 
 ## Packages
 
