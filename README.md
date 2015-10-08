@@ -148,7 +148,7 @@ Table of Contents
 
 # Resources
 
-[List of good articles](ARTICLES.md)
+[Other interesting materials about neo4j](MATERIALS.md).
 
 ## Learning
 
