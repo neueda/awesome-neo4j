@@ -145,6 +145,7 @@ Table of Contents
 
 - [neoclipse](https://github.com/neo4j-contrib/neoclipse) - Neoclipse is a tool to view, edit and explore Neo4j databases.
 - [Graphgen](http://graphgen.graphaware.com) - Graph Generation engine based on the Cypher DSL.
+- [store-utils](https://github.com/jexp/store-utils) - Utilities to compact, copy, fix, analyse Neo4j stores.
 
 # Resources
 
