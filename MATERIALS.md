@@ -2,6 +2,10 @@
 
 This page contains various interesting materials about Neo4j - presentations, articles, demos and etc.
 
+## Common
+
+- [Meet openCypher: The SQL for Graphs](http://neo4j.com/blog/open-cypher-sql-for-graphs/)
+
 ## Presentations
 
 - [Using Neo4j from Java](http://www.slideshare.net/neo4j/using-neo4j-from-java)

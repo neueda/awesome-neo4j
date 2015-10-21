@@ -16,6 +16,7 @@ Table of Contents
   * [Awesome Neo4j](#awesome-neo4j)
   * [Table of Contents](#table-of-contents)
   * [Basics](#basics)
+    * [Other](#other)
   * [Tools](#tools)
     * [Connectors](#connectors)
       * [Bolt](#bolt)
@@ -24,7 +25,7 @@ Table of Contents
         * [Ruby](#ruby)
         * [Python](#python)
         * [PHP](#php)
-        * [Other](#other)
+        * [Other](#other-1)
     * [Packages](#packages)
     * [Deployment](#deployment)
     * [Cypher](#cypher)
@@ -32,7 +33,7 @@ Table of Contents
     * [Development](#development)
     * [Benchmarking](#benchmarking)
     * [Extensions](#extensions)
-    * [Other](#other-1)
+    * [Other](#other-2)
   * [Resources](#resources)
     * [Learning](#learning)
     * [Bolt](#bolt-1)
@@ -48,6 +49,10 @@ Table of Contents
 - [GraphGist](http://gist.neo4j.org/) - GraphGists are an easy way to create and share documents containing not just prose, structure and pictures but most importantly example graph models and use-cases expressed in Neo4j’s query language Cypher.
 - [Alpha Release Channel](http://alpha.neohq.net/) - This microsite contains links and resources for future product releases.
 - [Maven repositories](https://m2.neo4j.org/) - Neo4j Maven repositories (releases, snapshots).
+
+## Other
+
+- [openCypher](http://www.opencypher.org/) - openCypher is an open source project to bring a new public implementation of the industry’s most widely adopted graph query language: Cypher.
 
 # Tools
 
