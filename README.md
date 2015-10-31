@@ -46,7 +46,7 @@ Table of Contents
 - [Docs](http://neo4j.com/docs/stable/)
 - [Cypher Refcard](http://neo4j.com/docs/stable/cypher-refcard/)
 - [Developer resources](http://neo4j.com/developer)
-- [GraphGist](http://gist.neo4j.org/) - GraphGists are an easy way to create and share documents containing not just prose, structure and pictures but most importantly example graph models and use-cases expressed in Neo4j’s query language Cypher.
+- [Gists](http://graphgist.neo4j.com/) - With Neo4j GraphGists you can describe and model your domain in a simple text file and render it as a rich, interactive page in any browser. Perfect to document a specific domain, use-case, question or graph problem.
 - [Alpha Release Channel](http://alpha.neohq.net/) - This microsite contains links and resources for future product releases.
 - [Maven repositories](https://m2.neo4j.org/) - Neo4j Maven repositories (releases, snapshots).
 
