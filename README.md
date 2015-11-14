@@ -8,7 +8,7 @@ Inspired by the `awesome-*` trend on GitHub.
 The goal is to build a categorized community-driven collection of very well-known resources.  
 Sharing, suggestions and contributions are always welcome!
 
-Thanks to all [contributors](https://github.com/FylmTM/awesome-neo4j/graphs/contributors).
+Thanks to all [contributors](https://github.com/GraphGeeks/awesome-neo4j/graphs/contributors).
 
 Table of Contents
 =================
@@ -112,7 +112,7 @@ Table of Contents
 ## Deployment
 
 - [docker-neo4j-cluster](https://github.com/ekino/docker-neo4j-cluster) - Up & Running Neo4j cluster in no time.
-- [docker-neo4j](https://github.com/neo4j-contrib/docker-neo4j) - Container for Neo4j 2.2 Community Edition.
+- [docker-neo4j](https://github.com/neo4j/docker-neo4j) - Container for Neo4j 2.2 Community Edition.
 
 ## Import
 
@@ -190,7 +190,7 @@ Table of Contents
 ## Miscellaneous
 
 - [Neo4j's Idea board](https://trello.com/b/2zFtvDnV/public-idea-board)
-- [Hardware Sizing Calculator](http://neo4j.com/hardware-sizing-calculator)
+- [Hardware Sizing Calculator](http://neo4j.com/hardware-sizing-calculator/)
 
 # License
 
