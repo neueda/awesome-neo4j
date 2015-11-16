@@ -121,6 +121,7 @@ Table of Contents
 ## Full-text search
 
 - [neo4j-to-elasticsearch](https://github.com/graphaware/neo4j-to-elasticsearch) - GraphAware Elasticsearch Integration is an enterprise-grade bi-directional integration between Neo4j and Elasticsearch.
+- [neo4j-elasticsearch](https://github.com/neo4j-contrib/neo4j-elasticsearch) - Neo4j ElasticSearch Integration.
 
 ## Data
 
