@@ -97,6 +97,7 @@ Table of Contents
 
 #### Other
 
+- [libneo4j-client](https://github.com/cleishm/libneo4j-client) - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results.
 - [node-neo4j](https://github.com/thingdom/node-neo4j) - REST API client for Node.
 - [Neo4jClient](https://github.com/Readify/Neo4jClient) - .NET client binding.
 - [neoism](https://github.com/jmcvetta/neoism) - Client for Golang.
