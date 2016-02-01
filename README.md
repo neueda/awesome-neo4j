@@ -1,7 +1,7 @@
 Awesome Neo4j
 ==============
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://travis-ci.org/Neueda4j/awesome-neo4j.svg?branch=master)](https://travis-ci.org/Neueda4j/awesome-neo4j)
+[![Build Status](https://api.travis-ci.org/Neueda4j/awesome-neo4j.svg?branch=master)](https://travis-ci.org/Neueda4j/awesome-neo4j)
 
 A curated list of awesome [Neo4j](http://neo4j.com/) resources.  
 Inspired by the `awesome-*` trend on GitHub.
@@ -9,7 +9,7 @@ Inspired by the `awesome-*` trend on GitHub.
 The goal is to build a categorized community-driven collection of very well-known resources.  
 Sharing, suggestions and contributions are always welcome!
 
-Thanks to all [contributors](https://github.com/GraphGeeks/awesome-neo4j/graphs/contributors).
+Thanks to all [contributors](https://github.com/Neueda4j/awesome-neo4j/graphs/contributors).
 
 Maintained by [Neueda4j](http://neueda4j.com).
 
@@ -51,10 +51,10 @@ Table of Contents
 
 - [Docs](http://neo4j.com/docs/stable/)
 - [Cypher Refcard](http://neo4j.com/docs/stable/cypher-refcard/)
-- [Developer resources](http://neo4j.com/developer)
+- [Developer resources](http://neo4j.com/developer/get-started/)
 - [Gists](http://graphgist.neo4j.com/) - With Neo4j GraphGists you can describe and model your domain in a simple text file and render it as a rich, interactive page in any browser. Perfect to document a specific domain, use-case, question or graph problem.
 - [Alpha Release Channel](http://alpha.neohq.net/) - This microsite contains links and resources for future product releases.
-- [Maven repositories](https://m2.neo4j.org/) - Neo4j Maven repositories (releases, snapshots).
+- [Maven repositories](https://m2.neo4j.org/index.html) - Neo4j Maven repositories (releases, snapshots).
 
 ## Other
 
@@ -201,6 +201,6 @@ Table of Contents
 
 # License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Dmitry Vrublevsky](https://github.com/FylmTM) has waived all copyright and related or neighboring rights to this work.
