@@ -151,7 +151,7 @@ Table of Contents
 
 ## Development
 
-- [intellij-plugin-cypher](https://github.com/FylmTM/intellij-plugin-cypher) - Cypher plugin for Jetbrains-family IDE.
+- [jetbrains-plugin-cypher](https://github.com/Neueda4j/jetbrains-plugin-cypher) - Cypher plugin for Jetbrains-family IDE's.
 - [Liquigraph](https://github.com/fbiville/liquigraph) - Database migrations management tool, based on how Liquibase works.
 - [blueprints](https://github.com/tinkerpop/blueprints) - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases.
 - [structr](https://github.com/structr/structr) - Graph Application Platform based on Neo4j.
