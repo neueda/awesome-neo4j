@@ -10,6 +10,8 @@ Sharing, suggestions and contributions are always welcome!
 
 Thanks to all [contributors](https://github.com/GraphGeeks/awesome-neo4j/graphs/contributors).
 
+Maintained by [Neueda4j](http://neueda4j.com).
+
 Table of Contents
 =================
 
@@ -69,6 +71,7 @@ Table of Contents
 - [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) - [ALPHA] Python driver for Neo4j binary protocol.
 - [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) - [ALPHA] JavaScript driver for Neo4j binary protocol.
 - [neo4j-php-driver](https://github.com/graphaware/neo4j-bolt-php) - [ALPHA] PHP driver for Neo4j binary protocol.
+- [libneo4j-client](https://github.com/cleishm/libneo4j-client) - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results.
 
 ### REST API
 
@@ -97,7 +100,6 @@ Table of Contents
 
 #### Other
 
-- [libneo4j-client](https://github.com/cleishm/libneo4j-client) - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results.
 - [node-neo4j](https://github.com/thingdom/node-neo4j) - REST API client for Node.
 - [Neo4jClient](https://github.com/Readify/Neo4jClient) - .NET client binding.
 - [neoism](https://github.com/jmcvetta/neoism) - Client for Golang.
@@ -112,8 +114,8 @@ Table of Contents
 
 ## Deployment
 
+- [docker-neo4j](https://github.com/neo4j/docker-neo4j) - Docker Images for the Neo4j Graph Database.
 - [docker-neo4j-cluster](https://github.com/ekino/docker-neo4j-cluster) - Up & Running Neo4j cluster in no time.
-- [docker-neo4j](https://github.com/neo4j/docker-neo4j) - Container for Neo4j 2.2 Community Edition.
 
 ## Import
 
