@@ -11,7 +11,7 @@ Sharing, suggestions and contributions are always welcome!
 
 Thanks to all [contributors](https://github.com/Neueda4j/awesome-neo4j/graphs/contributors).
 
-Maintained by [Neueda4j](http://neueda4j.com).
+Maintained by [Neueda4j](https://neueda4j.com/).
 
 Table of Contents
 =================
