@@ -92,7 +92,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 - [neo4jphp](https://github.com/jadell/neo4jphp) - PHP wrapper of the Neo4j REST interface.
 - [NeoEloquent](https://github.com/Vinelab/NeoEloquent) - A Neo4j ORM - Based on Eloquent.
-- [NeoClient](https://github.com/neoxygen/neo4j-neoclient) - A PHP HttpClient for the Neo4j ReST API with MultiDB Support.
+- [neo4j-php-client](https://github.com/graphaware/neo4j-php-client/tree/4.0) - PHP Client for Neo4j leveraging the Http and Bolt protocols.
 - [Spider](https://github.com/spider/spider) - A simple, flexible, and beautiful graph-data abstraction for php.
 
 ### Other
