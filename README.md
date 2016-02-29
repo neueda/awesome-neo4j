@@ -13,10 +13,10 @@ Thanks to all [contributors](https://github.com/Neueda4j/awesome-neo4j/graphs/co
 
 Maintained by [Neueda4j](https://neueda4j.com/).
 
+
 Table of Contents
 =================
 
-  * [Awesome Neo4j](#awesome-neo4j)
   * [Basics](#basics)
   * [Connectors](#connectors)
     * [Bolt](#bolt)
@@ -26,6 +26,7 @@ Table of Contents
       * [Python](#python)
       * [PHP](#php)
       * [Other](#other)
+  * [Cloud](#cloud)
   * [Packages](#packages)
   * [Docker](#docker)
   * [Full\-text search](#full-text-search)
@@ -39,6 +40,7 @@ Table of Contents
   * [Tools](#tools)
   * [Resources](#resources)
     * [Learn](#learn)
+    * [Certification](#certification)
     * [Bolt](#bolt-1)
     * [Books](#books)
     * [Miscellaneous](#miscellaneous)
