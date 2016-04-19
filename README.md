@@ -108,6 +108,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 - [GrapheneDB](http://www.graphenedb.com/) - The world's first fully managed
 Neo4j graph database.
+- [GraphStory](https://www.graphstory.com/) - Neo4j enterprise cloud provider
 
 # Packages
 
@@ -148,6 +149,11 @@ Neo4j graph database.
 - [Spatial](https://github.com/neo4j-contrib/spatial) - Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data.
 - [Graphify](https://github.com/Graphify/graphify) - Graphify is a Neo4j unmanaged extension used for document and text classification using graph-based hierarchical pattern recognition.
 - [neo4j-tx-participation](https://github.com/jexp/neo4j-tx-participation) - This is a Neo4j Server Extension to make Neo4j REST-API participate in transactions started by the transactional Cypher endpoint.
+
+# Stored Procedures
+
+- [Apoc : Awesome Procedures on Cypher](https://github.com/neo4j-contrib/neo4j-apoc-procedures) - Collection of useful procedures for Neo4j 3.x
+- [Graphgen](https://github.com/graphaware/neo4j-graphgen-procedure) - Neo4j procedure for generating test data easily with Cypher
 
 # Development
 
