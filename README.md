@@ -206,7 +206,7 @@ Neo4j graph database.
 
 ## Bolt
 
-- [Neo4j Data Protocol, Version 1](http://alpha.neohq.net/docs/server-manual/bolt.html) - This section describes the Neo4j Data Protocol, version 1. It is written primarily for those implementing client drivers as well as those who want to understand the low-level communication details of such interactions.
+- [Neo4j Bolt Protocol, Version 1](http://neo4j.com/docs/3.0.0-SNAPSHOT/bolt.html) - This section describes the Neo4j Data Protocol, version 1. It is written primarily for those implementing client drivers as well as those who want to understand the low-level communication details of such interactions.
 - [bolt-howto](https://github.com/nigelsmall/bolt-howto) - How to Build a Neo4j Bolt Protocol Driver.
 
 ## Books
