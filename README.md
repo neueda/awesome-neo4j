@@ -51,8 +51,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 # Basics
 
-- [Official documentation](http://neo4j.com/docs/stable/)
-- [Cypher Refcard](http://neo4j.com/docs/stable/cypher-refcard/)
+- [Official documentation](http://neo4j.com/docs/)
+- [Cypher Refcard](http://neo4j.com/docs/cypher-refcard/current/)
 - [Developer resources](http://neo4j.com/developer/get-started/)
 - [Gists](http://graphgist.neo4j.com/) - With Neo4j GraphGists you can describe and model your domain in a simple text file and render it as a rich, interactive page in any browser. Perfect to document a specific domain, use-case, question or graph problem.
 - [Neo4j Examples](https://github.com/neo4j-examples) - Examples for Neo4j and Library Usage.
@@ -62,11 +62,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 ## Bolt
 
-- [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) - [BETA] Java driver for Neo4j binary protocol.
-- [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) - [BETA] Python driver for Neo4j binary protocol.
+- [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) - Java driver for Neo4j binary protocol.
+- [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) - Python driver for Neo4j binary protocol.
 - [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) - [BETA] JavaScript driver for Neo4j binary protocol.
-- [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) - [BETA] .Net driver for Neo4j (Bolt).
-- [neo4j-bolt-php](https://github.com/graphaware/neo4j-bolt-php) - [BETA] PHP driver for Neo4j binary protocol.
+- [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) - .Net driver for Neo4j (Bolt).
+- [neo4j-bolt-php](https://github.com/graphaware/neo4j-bolt-php) - PHP driver for Neo4j binary protocol.
 - [libneo4j-client](https://github.com/cleishm/libneo4j-client) - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results.
 
 ## REST API
@@ -207,7 +207,6 @@ Neo4j graph database.
 
 ## Bolt
 
-- [Neo4j Bolt Protocol, Version 1](http://neo4j.com/docs/3.0.0-SNAPSHOT/bolt.html) - This section describes the Neo4j Data Protocol, version 1. It is written primarily for those implementing client drivers as well as those who want to understand the low-level communication details of such interactions.
 - [bolt-howto](https://github.com/nigelsmall/bolt-howto) - How to Build a Neo4j Bolt Protocol Driver.
 
 ## Books
