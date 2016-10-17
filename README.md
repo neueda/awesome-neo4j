@@ -214,6 +214,6 @@ Neo4j graph database.
 
 # License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/ )
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Neueda](https://github.com/Neueda) has waived all copyright and related or neighboring rights to this work.
