@@ -11,7 +11,7 @@ Sharing, suggestions and contributions are always welcome!
 
 Thanks to all [contributors](https://github.com/Neueda4j/awesome-neo4j/graphs/contributors).
 
-Maintained by [Neueda4j](https://neueda4j.com/).
+Maintained by [Neueda](https://neueda.com/).
 
 
 Table of Contents
@@ -205,7 +205,7 @@ Neo4j graph database.
 
 ## Certification
 
-- [Neo4j Certification](http://neo4j.com/graphacademy/neo4j-certification/) - Become a Neo4j-Certified Professional.
+- [Neo4j Certification](https://neo4j.com/graphacademy/neo4j-certification/) - Become a Neo4j-Certified Professional.
 
 ## Miscellaneous
 
@@ -216,4 +216,4 @@ Neo4j graph database.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/ )
 
-To the extent possible under law, [Neueda4j](https://github.com/Neueda4j) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Neueda](https://github.com/Neueda) has waived all copyright and related or neighboring rights to this work.
