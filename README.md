@@ -3,7 +3,7 @@ Awesome Neo4j
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/Neueda4j/awesome-neo4j.svg?branch=master)](https://travis-ci.org/Neueda4j/awesome-neo4j)
 
-A curated list of awesome [Neo4j](http://neo4j.com/) resources.  
+A curated list of awesome [Neo4j](https://neo4j.com/) resources.  
 Inspired by the `awesome-*` trend on GitHub.
 
 The goal is to build a categorized community-driven collection of very well-known resources.  
@@ -11,7 +11,7 @@ Sharing, suggestions and contributions are always welcome!
 
 Thanks to all [contributors](https://github.com/Neueda4j/awesome-neo4j/graphs/contributors).
 
-Maintained by [Neueda4j](https://neueda4j.com/).
+Maintained by [Neueda R&D](https://neueda.lv/).
 
 
 Table of Contents
@@ -53,10 +53,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 - [Official documentation](http://neo4j.com/docs/)
 - [Cypher Refcard](http://neo4j.com/docs/cypher-refcard/current/)
-- [Developer resources](http://neo4j.com/developer/get-started/)
+- [Developer resources](https://neo4j.com/developer/get-started/)
 - [Gists](http://graphgist.neo4j.com/) - With Neo4j GraphGists you can describe and model your domain in a simple text file and render it as a rich, interactive page in any browser. Perfect to document a specific domain, use-case, question or graph problem.
 - [Neo4j Examples](https://github.com/neo4j-examples) - Examples for Neo4j and Library Usage.
-- [Alpha Release Channel](http://alpha.neohq.net/) - This microsite contains links and resources for future product releases.
 
 # Connectors
 
@@ -200,25 +199,21 @@ Neo4j graph database.
 
 ## Learn
 
-- [Getting Started with Neo4j](http://neo4j.com/graphacademy/online-course/)
-- [Neo4j in Production](http://neo4j.com/graphacademy/online-course-prod/)
+- [Getting Started with Neo4j](https://neo4j.com/graphacademy/online-training/introduction-graph-databases/)
+- [Neo4j in Production](https://neo4j.com/graphacademy/online-training/neo4j-production/)
 - [Neo4j Koans](https://github.com/jimwebber/neo4j-tutorial) - A koan-style tutorial in Java for Neo4j.
 
 ## Certification
 
-- [Neo4j Certification](http://neo4j.com/graphacademy/neo4j-certification/) - Become a Neo4j-Certified Professional.
-
-## Bolt
-
-- [bolt-howto](https://github.com/nigelsmall/bolt-howto) - How to Build a Neo4j Bolt Protocol Driver.
+- [Neo4j Certification](https://neo4j.com/graphacademy/neo4j-certification/) - Become a Neo4j-Certified Professional.
 
 ## Miscellaneous
 
 - [Neo4j's Idea board](https://trello.com/b/2zFtvDnV/public-idea-board)
-- [Hardware Sizing Calculator](http://neo4j.com/hardware-sizing-calculator/)
+- [Hardware Sizing Calculator](https://neo4j.com/hardware-sizing-calculator/)
 
 # License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Neueda4j](https://github.com/Neueda4j) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Neueda R&D](https://github.com/Neueda) has waived all copyright and related or neighboring rights to this work.
