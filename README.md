@@ -57,6 +57,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Gists](http://graphgist.neo4j.com/) - With Neo4j GraphGists you can describe and model your domain in a simple text file and render it as a rich, interactive page in any browser. Perfect to document a specific domain, use-case, question or graph problem.
 - [Neo4j Examples](https://github.com/neo4j-examples) - Examples for Neo4j and Library Usage.
 
+# Related project
+
+- [openCypher](http://www.opencypher.org/) - openCypher is an open source project to bring a new public implementation of the industry’s most widely adopted graph query language: Cypher.
+- [Bolt Protocol](http://boltprotocol.org/) - The Bolt network protocol is a highly efficient, lightweight client-server protocol designed for database applications.
+
 # Connectors
 
 ## Bolt
@@ -192,10 +197,6 @@ Neo4j graph database.
 - [Graphgen](http://graphgen.graphaware.com) - Graph Generation engine based on the Cypher DSL.
 - [store-utils](https://github.com/jexp/store-utils) - Utilities to compact, copy, fix, analyse Neo4j stores.
 - [ineo](https://github.com/cohesivestack/ineo)- A simple but useful Neo4j instance manager.
-
-# Resources
-
-- [openCypher](http://www.opencypher.org/) - openCypher is an open source project to bring a new public implementation of the industry’s most widely adopted graph query language: Cypher.
 
 ## Learn
 
