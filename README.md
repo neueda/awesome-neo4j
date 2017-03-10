@@ -171,7 +171,7 @@ Neo4j graph database.
 - [Maven repositories](https://m2.neo4j.org/index.html) - Neo4j Maven repositories (releases, snapshots).
 - [GraphAware Neo4j Framework](https://github.com/graphaware/neo4j-framework)- GraphAware Framework speeds up development with Neo4j by providing a platform for building useful generic as well as domain-specific functionality, analytical capabilities, (iterative) graph algorithms, etc.
 - [cypher-dsl](https://github.com/neo4j-contrib/cypher-dsl) - A Java DSL for the Cypher Query Language and an optional Query DSL mode.
-- [Liquigraph](https://github.com/fbiville/liquigraph) - Database migrations management tool, based on how Liquibase works.
+- [Liquigraph](https://github.com/liquigraph/liquigraph) - Database migrations management tool, based on how Liquibase works.
 - [blueprints](https://github.com/tinkerpop/blueprints) - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases.
 - [structr](https://github.com/structr/structr) - Graph Application Platform based on Neo4j.
 - [Reco4PHP](https://github.com/graphaware/reco4php) - Neo4j based Recommendation Engine Framework for PHP.
