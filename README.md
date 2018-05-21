@@ -11,8 +11,7 @@ Sharing, suggestions and contributions are always welcome!
 
 Thanks to all [contributors](https://github.com/Neueda/awesome-neo4j/graphs/contributors).
 
-Maintained by [Neueda R&D](https://neueda.lv/).
-
+Maintained by [Neueda R&D](http://labs.neueda.com/).
 
 Table of Contents
 =================
@@ -51,8 +50,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 # Basics
 
-- [Official documentation](http://neo4j.com/docs/)
-- [Cypher Refcard](http://neo4j.com/docs/cypher-refcard/current/)
+- [Official documentation](https://neo4j.com/docs/)
+- [Cypher Refcard](https://neo4j.com/docs/cypher-refcard/current/)
 - [Developer resources](https://neo4j.com/developer/get-started/)
 - [Gists](http://graphgist.neo4j.com/) - With Neo4j GraphGists you can describe and model your domain in a simple text file and render it as a rich, interactive page in any browser. Perfect to document a specific domain, use-case, question or graph problem.
 - [Neo4j Examples](https://github.com/neo4j-examples) - Examples for Neo4j and Library Usage.
@@ -60,7 +59,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 # Related project
 
 - [openCypher](http://www.opencypher.org/) - openCypher is an open source project to bring a new public implementation of the industry’s most widely adopted graph query language: Cypher.
-- [Bolt Protocol](http://boltprotocol.org/) - The Bolt network protocol is a highly efficient, lightweight client-server protocol designed for database applications.
+- [Bolt Protocol](https://boltprotocol.org) - The Bolt network protocol is a highly efficient, lightweight client-server protocol designed for database applications.
 
 # Connectors
 
@@ -93,8 +92,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### Python
 
 - [py2neo](https://github.com/nigelsmall/py2neo) - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line.
-- [neomodel](https://github.com/robinedwards/neomodel) - An Object Graph Mapper (OGM) for the neo4j graph database, built on the awesome py2neo.
-- [BulbFlow](https://github.com/espeed/bulbs) - A Python persistence framework for graph databases like Neo4j, OrientDB and Titan.
+- [neomodel](https://github.com/neo4j-contrib/neomodel) - An Object Graph Mapper (OGM) for the neo4j graph database, built on the awesome py2neo.
 
 ### PHP
 
@@ -115,14 +113,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 # Cloud
 
-- [GrapheneDB](http://www.graphenedb.com/) - The world's first fully managed
+- [GrapheneDB](https://www.graphenedb.com/) - The world's first fully managed
 Neo4j graph database.
 - [GraphStory](https://www.graphstory.com/) - Neo4j enterprise cloud provider
 
 # Packages
 
 - [Debian Packages](http://debian.neo4j.org/)
-- [Yum Repo](http://yum.neo4j.org/)
+- [Yum Repo](http://yum.neo4j.org/stable/)
 
 # Docker
 
@@ -190,8 +188,8 @@ Neo4j graph database.
 
 - [neoclipse](https://github.com/neo4j-contrib/neoclipse) - Neoclipse is a tool to view, edit and explore Neo4j databases.
 - [Gephi](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
-- [Linkurious](http://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
-- [yFiles for HTML](https://www.yworks.com/yfileshtml) - yFiles is a commercial generic graph visualization programming library that comes with [a demo to visualize your neo4j databases in JavaScript](http://live.yworks.com/demos/#neo4j). It's also the basis for the [free neo4j Graph Explorer app](https://www.yworks.com/neo4j-explorer).
+- [Linkurious](https://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
+- [yFiles for HTML](https://www.yworks.com/products/yfiles-for-html) - yFiles is a commercial generic graph visualization programming library that comes with [a demo to visualize your neo4j databases in JavaScript](http://live.yworks.com/demos/#neo4j). It's also the basis for the [free neo4j Graph Explorer app](https://www.yworks.com/neo4j-explorer/).
 
 # Tools
 
@@ -202,7 +200,7 @@ Neo4j graph database.
 
 ## Learn
 
-- [Getting Started with Neo4j](https://neo4j.com/graphacademy/online-training/introduction-graph-databases/)
+- [Getting Started with Neo4j](https://neo4j.com/graphacademy/online-training/getting-started-graph-databases-using-neo4j/)
 - [Neo4j in Production](https://neo4j.com/graphacademy/online-training/neo4j-production/)
 - [Neo4j Koans](https://github.com/jimwebber/neo4j-tutorial) - A koan-style tutorial in Java for Neo4j.
 
