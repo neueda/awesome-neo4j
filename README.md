@@ -120,7 +120,7 @@ Neo4j graph database.
 # Packages
 
 - [Debian Packages](http://debian.neo4j.org/)
-- [Yum Repo](http://yum.neo4j.org/stable)
+- [Yum Repo](http://yum.neo4j.org/stable/)
 
 # Docker
 
@@ -200,7 +200,7 @@ Neo4j graph database.
 
 ## Learn
 
-- [Getting Started with Neo4j](http://neo4j.com/graphacademy/online-training/getting-started-graph-databases-using-neo4j/)
+- [Getting Started with Neo4j](https://neo4j.com/graphacademy/online-training/getting-started-graph-databases-using-neo4j/)
 - [Neo4j in Production](https://neo4j.com/graphacademy/online-training/neo4j-production/)
 - [Neo4j Koans](https://github.com/jimwebber/neo4j-tutorial) - A koan-style tutorial in Java for Neo4j.
 
