@@ -13,7 +13,6 @@ Thanks to all [contributors](https://github.com/Neueda/awesome-neo4j/graphs/cont
 
 Maintained by [Neueda R&D](https://neueda.lv/).
 
-
 Table of Contents
 =================
 
