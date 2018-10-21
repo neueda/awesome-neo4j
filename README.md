@@ -204,6 +204,9 @@ Neo4j graph database.
 - [Neo4j in Production](https://neo4j.com/graphacademy/online-training/neo4j-production/)
 - [Neo4j Koans](https://github.com/jimwebber/neo4j-tutorial) - A koan-style tutorial in Java for Neo4j.
 
+## Books
+- [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning) - by Alessandro Negro. Combine graph theory and models to improve machine learning projects
+
 ## Certification
 
 - [Neo4j Certification](https://neo4j.com/graphacademy/neo4j-certification/) - Become a Neo4j-Certified Professional.
