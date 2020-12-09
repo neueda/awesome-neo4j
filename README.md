@@ -110,6 +110,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [neocons](https://github.com/michaelklishin/neocons) - A feature rich idiomatic Clojure client for the REST API.
 - [RNeo4j](https://github.com/nicolewhite/RNeo4j) - Driver for R.
 - [AnormCypher](https://github.com/AnormCypher/AnormCypher) - Scala library based on Anorm in the Play Framework.
+- [NeoClient](https://github.com/OKTAYKIR/NeoClient) - A Lightweight and simple object graph mapper.
+- [NeoClientDemo](https://github.com/OKTAYKIR/NeoClientDemo) - Neo4j Movies Example Application
 
 # Cloud
 
